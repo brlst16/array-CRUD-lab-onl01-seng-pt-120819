@@ -7,7 +7,11 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+<<<<<<< HEAD
     array = ["wow","I", "am", "really", "learning"] << "arrays!"
+=======
+    
+>>>>>>> 825269211bbd0c41b515c6c13a0b847296e87e5e
 end
 
 def add_element_to_start_of_array(array, element)
